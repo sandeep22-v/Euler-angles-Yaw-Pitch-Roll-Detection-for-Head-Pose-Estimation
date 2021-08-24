@@ -1,1 +1,1 @@
-# Euler-angles-Yaw-Pose-Roll-for-Head-Pose-Estimation-
+Euler angles Yaw Pitch Roll Detection of Head using OpenCV and Dlib
